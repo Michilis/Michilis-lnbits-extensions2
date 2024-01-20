@@ -11,7 +11,6 @@
             "short_description": "For streamers to accept sats and trigger gifs",
             "icon": "/bets4sats/static/image/bets4sats.png",
             "archive": "https://github.com/oren-z0/bets4sats/archive/refs/tags/0.1.6.zip",
-            "hash": "2e17d9c8ad67cce6deabccf00c64ef3ebd1320b6f3cba442c91dff0496536340"
         },
         {
             "id": "bets4sats",
@@ -22,7 +21,6 @@
             "short_description": "For streamers to accept sats and trigger gifs",
             "icon": "/bets4sats/static/image/bets4sats.png",
             "archive": "https://github.com/oren-z0/bets4sats/archive/refs/tags/0.1.7.zip",
-            "hash": "0ce8f5998aece7d6161eb163b4f93d0070057257569539fcab76529c545fce7e"
         },
     ]
 }
