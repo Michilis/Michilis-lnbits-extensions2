@@ -22,5 +22,15 @@
             "icon": "/bets4sats/static/image/bets4sats.png",
             "archive": "https://github.com/oren-z0/bets4sats/archive/refs/tags/0.1.7.zip",
         },
+        {
+            "id": "lncalendar",
+            "repo": "https://github.com/lnbits/lncalendar",
+            "name": "BLN Calendar",
+            "version": "0.1.1",
+            "min_lnbits_version": "0.11.0",
+            "short_description": "A paid scheduling extension for LNBits that lets you schedule blocks of time on your calendar and get paid in Bitcoin.",
+            "icon": "/bets4sats/static/image/bets4sats.png",
+            "archive": "https://github.com/lnbits/lncalendar/archive/refs/tags/v0.1.1.zip",
+        },
     ]
 }
